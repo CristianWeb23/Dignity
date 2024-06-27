@@ -1,0 +1,44 @@
+.lowertitle {
+    font-family: 'Courier New', Courier, monospace;
+}
+.Sub {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#phar {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 3rem;
+    text-align: center;
+    padding: 4%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 1.06rem;
+    background-color: white;
+}
+.header {
+    text-align: center;
+}
+.firstBody {
+    text-align: center;
+}
+body {
+    background-color: whitesmoke;
+}
+.first {
+    width: 50%;
+}
+.secondbody {
+    text-align: center;
+}
+.second {
+    width: 50%;
+}
+#phar2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 3rem;
+    text-align: center;
+    padding: 4%;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 1.06rem;
+    background-color: white;
+}
